@@ -14,7 +14,4 @@ AI ROCK PAPER SESSIOR
   - 2022HS70021	
 ## Khitiz Arya	
 - Kshitiz-Arya
-  - 2022HS70002	
-## MohammadAdnan Khan 	
-- AK10-tech
-  - 2022HS70047	
+  - 2022HS70002
