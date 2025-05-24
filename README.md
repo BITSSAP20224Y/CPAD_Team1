@@ -1,6 +1,6 @@
 # CPAD_Team01
 # App Details
-AI Helper - AI Chatbot, Image Generator & Language Translator App
+AI ROCK PAPER SESSIOR
 
 
 ## Moumita De
